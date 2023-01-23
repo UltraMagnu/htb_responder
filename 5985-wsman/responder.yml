@@ -1,0 +1,14 @@
+type: {vbd}
+user-name: {ultramagnu}
+stage: {inmersion}
+dicovered-vulnerabilities: CVE-2013-5985, MS09-048TCP/IP
+
+  by-me: {2}
+  in-repo: {0}
+  total: {2}
+estimated-vulnerabilities: {2}
+discovery-percentage: {100%}
+total-time: {02:45:35}
+effort: {Medium}
+date: {12/30/2022}
+path: {solution-path}
